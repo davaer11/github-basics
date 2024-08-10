@@ -3,3 +3,5 @@ some file for push
 some other text is added here.
 
 text from remote!!
+
+remote promjena
